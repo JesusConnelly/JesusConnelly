@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JesusConnelly
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning zk rollups
 - 📫 How to reach me @jesusconnelly9 twitter
 
 <!---
